@@ -1,5 +1,5 @@
 Simple game where you have to repeat the sequence of LED flashes by tapping a button
-RGB LED used in this project has common cathode!
+### RGB LED used in this project has common cathode!
 ## How to run
 Assemble everything according to schematics 
 ![Schematics](schematics/schematic.png)
@@ -20,3 +20,4 @@ You can also change the game settings with define statements below
 #define tolerance 250       //Tolerance for how off player can be
 ```
 ## Demo
+![Demo](readme-files/sample_game.gif)
